@@ -1,2 +1,2 @@
-# Examen1
+# Leeme corre
 Sofi acabo de cambiar pelota
